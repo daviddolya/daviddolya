@@ -5,7 +5,7 @@
 Diploma in software development — Ust-Kamenogorsk Higher Polytechnic College, 2026; currently studying towards a bachelor's degree.<br/>
 Working on defect classification and the annotation quality underneath it.
 
-Kazakhstan 🇰🇿 &nbsp;·&nbsp; open to relocation &nbsp;·&nbsp; [email](mailto:davideee14@icloud.com) &nbsp;·&nbsp; [telegram](https://t.me/yeyoeee)
+Kazakhstan &nbsp;·&nbsp; open to relocation &nbsp;·&nbsp; [email](mailto:davideee14@icloud.com) &nbsp;·&nbsp; [telegram](https://t.me/yeyoeee)
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square)
